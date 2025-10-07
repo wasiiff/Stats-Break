@@ -43,8 +43,8 @@
 | Backend | NestJS (TypeScript) |
 | Database | MongoDB |
 | AI / Language Model | Gemini API |
-| Hosting / Deployment | Vercel (frontend), (your backend host) |
-| Others | Axios / Fetch, Express (Nest under the hood) |
+| Hosting / Deployment | Vercel |
+| Others | RTK Query |
 
 ---
 
